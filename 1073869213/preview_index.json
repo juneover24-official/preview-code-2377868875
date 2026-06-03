@@ -1,7 +1,7 @@
 {
   "qq_number": "2377868875",
   "group_number": "1073869213",
-  "updated_at": "2026-04-23T15:52:36.907250",
+  "updated_at": "2026-06-03T19:13:59+00:00",
   "skins": [
     {
       "name": "祷告泪",
@@ -140,6 +140,12 @@
       "file": "共鸣之眼脆.bds",
       "thumb": "共鸣之眼脆.bds_py_26_light_thumb.png",
       "full": "共鸣之眼脆.bds_py_26_light.png"
+    },
+    {
+      "name": "元气少女缘结神",
+      "file": "元气少女缘结神.bdi",
+      "thumb": "元气少女缘结神.bdi_py_26_light_thumb.png",
+      "full": "元气少女缘结神.bdi_py_26_light_thumb.png"
     }
   ]
 }
