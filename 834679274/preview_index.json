@@ -1,7 +1,7 @@
 {
   "qq_number": "2377868875",
   "group_number": "834679274",
-  "updated_at": "2026-06-29T06:48:30+00:00",
+  "updated_at": "2026-06-29T14:10:31+00:00",
   "skins": [
     {
       "name": "雨息空灵",
@@ -44,6 +44,12 @@
       "file": "痛苦記憶2闷.bdi",
       "thumb": "痛苦記憶2闷.bdi_py_26_light_thumb.png",
       "full": "痛苦記憶2闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "痛苦記憶脆",
+      "file": "痛苦記憶脆.bds",
+      "thumb": "痛苦記憶脆.bds_py_26_light_thumb.png",
+      "full": "痛苦記憶脆.bds_py_26_light_thumb.png"
     }
   ]
 }
