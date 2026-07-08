@@ -1,7 +1,7 @@
 {
   "qq_number": "2377868875",
   "group_number": "834679274",
-  "updated_at": "2026-07-08T15:47:16+00:00",
+  "updated_at": "2026-07-08T15:48:25+00:00",
   "skins": [
     {
       "name": "雨息空灵",
@@ -122,6 +122,12 @@
       "file": "虚拟帧率闷.bds",
       "thumb": "虚拟帧率闷.bds_py_26_light_thumb.png",
       "full": "虚拟帧率闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "虚拟帧率脆",
+      "file": "虚拟帧率脆.bds",
+      "thumb": "虚拟帧率脆.bds_py_26_light_thumb.png",
+      "full": "虚拟帧率脆.bds_py_26_light_thumb.png"
     }
   ]
 }
