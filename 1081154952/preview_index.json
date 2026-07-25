@@ -1,7 +1,7 @@
 {
   "qq_number": "2377868875",
   "group_number": "1081154952",
-  "updated_at": "2026-07-25T11:21:51+00:00",
+  "updated_at": "2026-07-25T11:24:01+00:00",
   "skins": [
     {
       "name": "画瞳吻脆无动销",
@@ -14,12 +14,6 @@
       "file": "画瞳吻脆2无动销.bdi",
       "thumb": "画瞳吻脆2无动销.bdi_py_26_light_thumb.png",
       "full": "画瞳吻脆2无动销.bdi_py_26_light.png"
-    },
-    {
-      "name": "画瞳吻闷无动销",
-      "file": "画瞳吻闷无动销.bdi",
-      "thumb": "画瞳吻闷无动销.bdi_py_26_light_thumb.png",
-      "full": "画瞳吻闷无动销.bdi_py_26_light.png"
     },
     {
       "name": "纯白爱恋",
@@ -218,6 +212,12 @@
       "file": "画瞳吻脆.bdi",
       "thumb": "画瞳吻脆.bdi_py_26_light_thumb.png",
       "full": "画瞳吻脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "画瞳吻闷",
+      "file": "画瞳吻闷无动销.bdi",
+      "thumb": "画瞳吻闷无动销.bdi_py_26_light_thumb.png",
+      "full": "画瞳吻闷无动销.bdi_py_26_light_thumb.png"
     }
   ]
 }
